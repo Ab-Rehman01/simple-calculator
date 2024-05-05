@@ -1,5 +1,5 @@
 {
-  "name": "Basic01rew00000000000-GIT-calculator",
+  "name": "basic01-git-calculator",
   "version": "1.1.1",
   "description": "calculator with type script node js and inquirer",
   "main": "index.js",
